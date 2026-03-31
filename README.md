@@ -1,6 +1,6 @@
 ### Olá! Eu sou Guilherme Leopoldino 👋
 
-Sou desenvolvedor Full Stack e apaixonado por tecnologia.
+Desenvolvedor Full Stack em formação apaixonado por tecnologia.
 
 ---
 
